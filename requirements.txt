@@ -1,4 +1,6 @@
 
 streamlit
 pillow
-requests
+numpy
+tensorflow
+huggingface_hub
